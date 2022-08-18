@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/melscoop-test/ACC_05-PG7-JSTest#readme",
   "dependencies": {
-    "@actions/core": "^1.2.7"
+    "@actions/core": "^1.9.1"
   }
 }
